@@ -1,0 +1,6 @@
+[submodule "tiscovery"]
+    path = tiscovery
+    url = https://bitbucket.org/whistlebee/tiscovery.git
+[submodule "harmat"]
+    path = harmat
+    url = https://bitbucket.org/whistlebee/harmat.git

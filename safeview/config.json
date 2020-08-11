@@ -1,0 +1,5 @@
+{
+    "host_ip": "u'10.32.6.213'",
+    "gateway": "192.168.1.1",
+    "network_interface": "enp0s3"
+}
